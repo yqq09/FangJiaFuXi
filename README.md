@@ -1,7 +1,4 @@
 # FangJiaFuXi
-shifoushangchuan
-55555
-333
 # 终版 第一章
 例. 求正整数m、n的最大公因数。
 ```C
